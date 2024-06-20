@@ -5,4 +5,4 @@ date: 2024-06-20
 ---
 
 
-<img href="logo-color.png">
+<img src="logo-color.png" alt="logo">
