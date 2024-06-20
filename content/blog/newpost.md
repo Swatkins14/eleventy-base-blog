@@ -8,4 +8,4 @@ date: 2024-06-20
 
 <!-- <img href="/content/blog/sam-watkins-portfolio-high-resolution-logo.png" alt="logo"> -->
 
-![Logo](./sam-watkins-portfolio-high-resolution-logo.png)
+![Logo](https://github.com/Swatkins14/eleventy-base-blog/blob/main/content/blog/sam-watkins-portfolio-high-resolution-logo.png)
