@@ -4,6 +4,8 @@ description: This is the logo i created on logo.com
 date: 2024-06-20
 ---
 
-{% image "./sam-watkins-portfolio-high-resolution-logo.png"}
+<!-- {% image "./sam-watkins-portfolio-high-resolution-logo.png"} -->
 
 <!-- <img href="/content/blog/sam-watkins-portfolio-high-resolution-logo.png" alt="logo"> -->
+
+![Logo](./sam-watkins-portfolio-high-resolution-logo.png)
