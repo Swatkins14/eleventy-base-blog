@@ -5,4 +5,4 @@ date: 2024-06-20
 ---
 
 
-<img src="sam-watkins-portfolio-high-resolution-logo.png" alt="logo">
+<img src="/content/blog/sam-watkins-portfolio-high-resolution-logo.png" alt="logo">
