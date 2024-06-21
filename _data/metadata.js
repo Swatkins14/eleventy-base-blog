@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Sam Watkins Portfolio",
-	url: "https://samwatkins-portfolio.com",
+	title: "Sam Watkins Blog",
+	url: "https://samwatkins-blog.com",
 	language: "en",
-	description: "My name is Sam Watkins and this is my portfolio. Here you will find my journey throughout coding, including past and current projects.",
+	description: "My name is Sam Watkins and this is my blog.
 	author: {
 		name: "Sam Watkins",
 		email: "samuel.w92@hotmail.co.uk",
-		url: "https://samwatkins-portfolio.com/about-me/"
+		url: "https://samwatkins-blog.com/about-me/"
 	}
 }
