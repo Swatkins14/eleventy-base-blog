@@ -6,4 +6,4 @@ date: 2024-06-20
 
 # My Logo!
 
-![Logo](sam-watkins-portfolio-high-resolution-logo.png)
+{% image "/.sam-watkins-portfolio-high-resolution-logo.png", "Logo" %}
