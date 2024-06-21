@@ -6,5 +6,5 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+Hi there, my name is Sam Watkins and here you will find my blog detailing my journey as I learn the fundamnetals of web development.
 
